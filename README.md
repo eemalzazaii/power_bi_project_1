@@ -87,4 +87,14 @@ show(chart2)
 <b>Note:</b>*The data is now preprocessed and ready to be exported to Power Bi for building Dashboard*
 ### Power Bi Dashboard
 ![Power Bi Dashboard](https://github.com/user-attachments/assets/3798c0d7-3c5d-4caa-a08d-16ba7d79ad77)
+-----------------
+### Findings
++ Over a five-year period, the cumulative revenue generated from supplement sales in Canada reached approximately $7.65 million.
++ The Canadian market records annual sales of roughly 226,000 supplement products.
++ iHerb leads the supplement market in Canada, generating $2.72 million in sales from 2020 to 2025.
++ Amazon holds second place in Canada's supplement market, with sales reaching $2.51 million million between 2020 and 2025.
++ Amazon achieved the third-highest supplement sales in Canada between 2020 and 2025, generating revenue of $2.52 million.
++ Among supplements, creatine demonstrates the highest sales performance in the Canadian market.
++ Bioten has the lowest sales performance in Canada in last five years.
++ With only 439 supplement products returned, this low return rate demonstrates the high quality of these products in the market.
 
