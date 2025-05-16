@@ -47,3 +47,24 @@ df.shape
 ```
 (4384, 10)
 
+```
+df.info()
+```
+
+<class 'pandas.core.frame.DataFrame'>
+RangeIndex: 4384 entries, 0 to 4383
+Data columns (total 10 columns):
+ #   Column          Non-Null Count  Dtype  
+---  ------          --------------  -----  
+ 0   Date            4384 non-null   object 
+ 1   Product Name    4384 non-null   object 
+ 2   Category        4384 non-null   object 
+ 3   Units Sold      4384 non-null   int64  
+ 4   Price           4384 non-null   float64
+ 5   Revenue         4384 non-null   float64
+ 6   Discount        4384 non-null   float64
+ 7   Units Returned  4384 non-null   int64  
+ 8   Location        4384 non-null   object 
+ 9   Platform        4384 non-null   object 
+dtypes: float64(3), int64(2), object(5)
+memory usage: 342.6+ KB
