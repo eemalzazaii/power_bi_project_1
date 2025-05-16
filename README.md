@@ -40,4 +40,6 @@ output_notebook()
 ```
 df = pd.read_csv('Supplement_sales.csv')
 ```
+![image](https://github.com/user-attachments/assets/44aadf3f-88f2-48af-a227-7ff1b81a872c)
+
 
