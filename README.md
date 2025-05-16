@@ -4,7 +4,7 @@
   + EDA, Preprocessing and Basic Vizualization done in Pyton.
 + Second Part Power Bi Dashboard
   + Second part (Dashboard) is created using Power Bi.
-  + ---------
+---------
 ### Overview
 This dataset contains weekly sales data for a variety of health and wellness supplements from January 2020 to April 2025. The data includes products in categories like Protein, Vitamins, Omega, and Amino Acids, among others, and covers multiple e-commerce platforms such as Amazon, Walmart, and iHerb. The dataset also tracks sales in several locations including the USA, UK, and Canada but I only analysis and vizualise Supplement sales in Canada from 2020 to 2025.
 
