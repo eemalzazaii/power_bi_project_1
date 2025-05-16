@@ -53,4 +53,5 @@ df.info()
 ![image](https://github.com/user-attachments/assets/433e1a62-961c-4c5f-a8f7-383e40515d8c)
 ![image](https://github.com/user-attachments/assets/caaed6be-b4ae-48ca-af40-4d723ea4041d)
 ![image](https://github.com/user-attachments/assets/fd0a48b7-d8dc-42a7-84d4-f7898921184a)
+![image](https://github.com/user-attachments/assets/b46732a8-d6cf-4ba5-89be-78a0824a5d9b)
 
