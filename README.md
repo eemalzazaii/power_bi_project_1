@@ -84,5 +84,5 @@ chart2.vbar(x = product1, top = units_sold, width = 0.5)
 show(chart2)
 ```
 
-
+### The data is now preprocessed and ready to be exported to Power Bi for build Dashboard
 
