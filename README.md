@@ -84,7 +84,7 @@ chart2.vbar(x = product1, top = units_sold, width = 0.5)
 show(chart2)
 ```
 
-### The data is now preprocessed and ready to be exported to Power Bi for building Dashboard
+<b>Note:</b>*The data is now preprocessed and ready to be exported to Power Bi for building Dashboard*
 ### Power Bi Dashboard
 ![Power Bi Dashboard](https://github.com/user-attachments/assets/3798c0d7-3c5d-4caa-a08d-16ba7d79ad77)
 
