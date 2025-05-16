@@ -19,5 +19,5 @@ I have done analysis with Python and visuzalition with Power Bi.
 + Which supplement products are sold by iHerb the most.
 + Impact of promotions on Sales.
 + Time series analysis to find more patterns and trends.
-      Power Bi Dashboard
+### Power Bi Dashboard
 ![Power Bi Dashboard](https://github.com/user-attachments/assets/3798c0d7-3c5d-4caa-a08d-16ba7d79ad77)
