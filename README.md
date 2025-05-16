@@ -24,20 +24,3 @@ I have done analysis with Python and visuzalition with Power Bi.
 ### Power Bi Dashboard
 ![Power Bi Dashboard](https://github.com/user-attachments/assets/3798c0d7-3c5d-4caa-a08d-16ba7d79ad77)
 
-{
-      "cell_type": "code",
-      "source": [
-        "import pandas as pd\n",
-        "import numpy as np\n",
-        "import seaborn as sns\n",
-        "from bokeh.plotting import figure,show,output_notebook\n",
-        "from bokeh.palettes import Category10_3\n",
-        "\n",
-        "output_notebook()"
-      ],
-      "metadata": {
-        "id": "f-hrroJ54MML"
-      },
-      "execution_count": 78,
-      "outputs": []
-}
