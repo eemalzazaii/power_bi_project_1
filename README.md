@@ -36,3 +36,8 @@ from bokeh.palettes import Category10_3
 
 output_notebook()
 ```
+
+```
+df = pd.read_csv('Supplement_sales.csv')
+```
+
