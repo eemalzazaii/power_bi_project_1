@@ -11,3 +11,11 @@ This dataset contains weekly sales data for a variety of health and wellness sup
 I have done analysis with Python and visuzalition with Power Bi.
 
 <b> Dataset source: https://www.kaggle.com/datasets/zahidmughal2343/supplement-sales-data/data </b>
+### Objectives: 
++ Which platform has sold the most supplement product in Canada.
++ Which supplement product is sold the most.
++ Which supplement products are sold by Walmart the most.
++ Which supplement products are sold by Amazon the most.
++ Which supplement products are sold by iHerb the most.
++ Impact of promotions on Sales.
++ Time series analysis to find more patterns and trends.
