@@ -40,4 +40,4 @@ I have done analysis with Python and visuzalition with Power Bi.
       },
       "execution_count": 78,
       "outputs": []
-    }
+}
