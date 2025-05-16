@@ -1,4 +1,4 @@
-# Canada Supplement Sales Dashboard
+# 📊Canada Supplement Sales Dashboard
 ### The project consists of two parts:
 + First Part Python Code
   + EDA, Preprocessing and Basic Vizualization done in Python.
